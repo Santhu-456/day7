@@ -1,0 +1,5 @@
+num=input('enter the number')
+num1=int(num)
+name=input('enter the string ')
+print(name)
+print(num1)

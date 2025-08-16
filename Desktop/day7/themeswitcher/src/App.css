@@ -1,0 +1,31 @@
+.app {
+  text-align: center;
+  padding: 20px;
+}
+
+.app.dark {
+  background: #222;
+  color: white;
+}
+
+.app.light {
+  background: #eee;
+  color: black;
+}
+
+.card {
+  margin-top: 20px;
+  padding: 15px;
+  border-radius: 8px;
+  font-size: 18px;
+}
+
+.card.dark {
+  background: #444;
+  color: white;
+}
+
+.card.light {
+  background: #fff;
+  color: black;
+}
